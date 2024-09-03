@@ -5,3 +5,4 @@
 3. Hell's Kitchen
 4. Huancavelica
 5. Huanta
+6. Huancayo
